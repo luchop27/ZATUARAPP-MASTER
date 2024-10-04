@@ -135,6 +135,6 @@ STATIC_ROOT='/var/www/zatuarApp/static/'
 STATICFILES_DIRS=[
     'static',
 ]
-
+#w
 MEDIA_URL="/media/"
 MEDIA_ROOT='/var/www/zatuarApp/media/'
